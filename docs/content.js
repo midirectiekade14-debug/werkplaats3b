@@ -8,7 +8,7 @@ const CONTENT = {
   "siteTitle": "Werkplaats3b — Professionele werkruimte Rotterdam - Den Haag",
   "metaDescription": "Multifunctionele bedrijfsruimte voor vakmensen en kleine studio's. 850 m² met kantoren, ateliers, afgesloten werkruimtes en machinale. Oud Camp 3b, Maasland.",
   "ogDescription": "Multifunctionele bedrijfsruimte voor vakmensen en kleine studio's. Op 20 minuten afstand van Rotterdam-Delft-Den Haag. Naast A20, Maasland.",
-  "eyebrow": "Drie werkplekken vrij · per 21 september",
+  "eyebrow": "Werkplekken volgeboekt · overige ruimtes op aanvraag",
   "tagline": "Multifunctionele bedrijfsruimte voor professionele makers",
   "locationText": "Oud Camp 3b · Maasland · Naast A20 · 15-20 minuten van Den Haag / Rotterdam / Delft",
   "introText": "Werkplaats3B is een <strong>multifunctionele bedrijfsruimte van 850 m²</strong> voor zelfstandige vakmensen en kleine studio's. <br>Hier werken professionele en ambitieuze makers samen aan mooie projecten: 300 m² machinale, 300 m² assemblageruimte en een eigen werkplek van 25 m² per bedrijf. <br><br>Heb je meer ruimte en betere machines nodig dan je nu hebt? Kom langs, dan weet je of het past. <br><br>Is dit wat je zoekt, dan krijg je een contract dat per kwartaal opzegbaar is, betaal je 2 maanden huur als borg en kun je meteen aan de gang. <br>",
@@ -163,7 +163,7 @@ const CONTENT = {
   "whatsappText": "Hey, ik heb interesse in een werkplek bij Werkplaats3b.",
   "contactLines": [
     "Oud Camp 3b, Maasland (naast A20)",
-    "Drie werkplekken vrij · stand 20 augustus",
+    "Werkplekken volgeboekt · overige ruimtes op aanvraag (stand 8 september)",
     "Rondleiding op afspraak — bel of app, dan plannen we het"
   ],
   "instagramHandle": "@werkplaats3B",
