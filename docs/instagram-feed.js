@@ -7,6 +7,12 @@
 
 const INSTAGRAM_FEED = [
   {
+    "src": "photos/instagram/p19.webp",
+    "alt": "Foto van de entresol in de werkplaats: iemand rolt primer over de nieuwe vloer. Kop: Entresol in de primer. Eerste van vijf slides over de bouw van de entresol.",
+    "caption": "Entresol in de primer.\n\nVorige week lag hier nog een open stalen frame, met de hal eronder in het zicht. Plaat voor plaat is het dichtgelegd, en nu zit de hele vloer in de primer.\n\nBenieuwd hoe het verder gaat? Plan een afspraak in via werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
+    "datum": "2026-09-24"
+  },
+  {
     "src": "photos/instagram/p18.webp",
     "alt": "Foto van een werkplaats met daaroverheen de kop: Het gaat pas de deur uit als het af is. Daaronder: overheaddeur op de begane grond, laadmogelijkheid binnen, reachtruck in de hal en een aanhanger voor vervoer naar locatie.",
     "caption": "Het gaat pas de deur uit als het af is.\r\n\r\nIedereen die weleens een kast van twee meter tachtig heeft gebouwd in een ruimte met een normale deur, weet waar dit over gaat.\r\n\r\nOverheaddeur op de begane grond, reachtruck in de hal, en een gesloten en een open aanhanger die je kunt gebruiken. Laden is hier geen project op zich.\r\n\r\nNog 3 units vrij per 21 september. werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
