@@ -9,7 +9,7 @@ const INSTAGRAM_FEED = [
   {
     "src": "photos/instagram/p19.webp",
     "alt": "Foto van de entresol in de werkplaats: iemand rolt de lichtgrijze coating over de nieuwe vloer. Kop: Entresol strak in de lak. Eerste van vijf slides over de bouw van de entresol.",
-    "caption": "Entresol in de primer.\n\nVorige week lag hier nog een open stalen frame, met de hal eronder in het zicht. Plaat voor plaat is het dichtgelegd, en nu zit de hele vloer in de primer.\n\nBenieuwd hoe het verder gaat? Plan een afspraak in via werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
+    "caption": "Entresol strak in de lak.\n\nVorige week lag hier nog een open stalen frame, met de hal eronder in het zicht. Plaat voor plaat is het dichtgelegd, en nu zit de hele vloer in de primer.\n\nBenieuwd hoe het verder gaat? Plan een afspraak in via werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
     "datum": "2026-09-24"
   },
   {
