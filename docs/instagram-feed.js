@@ -7,6 +7,12 @@
 
 const INSTAGRAM_FEED = [
   {
+    "src": "photos/instagram/p20.webp",
+    "alt": "Hebrock F4-kantenaanlijmer, binnenkort in de machinale van Werkplaats3b",
+    "caption": "De F45 krijgt gezelschap.\n\nDinsdag 6 oktober komt er een Hebrock F4 bij. Hij stamt uit dezelfde stal als de Altendorf F45-formaatzaag die er al staat, want Hebrock hoort bij de Altendorf Group. Je zaagt op de ene en lijmt op de andere de kanten aan.\n\nDaar gaan we veel plezier aan beleven en kan de productiesnelheid flink omhoog.\n\nKom je kijken? Plan een afspraak in via werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
+    "datum": "2026-10-02"
+  },
+  {
     "src": "photos/instagram/p19.webp",
     "alt": "Foto van de entresol in de werkplaats: iemand rolt de lichtgrijze coating over de nieuwe vloer. Kop: Entresol strak in de lak. Eerste van vijf slides over de bouw van de entresol.",
     "caption": "Entresol strak in de lak.\n\nVorige week lag hier nog een open stalen frame, met de hal eronder in het zicht. Plaat voor plaat is het dichtgelegd, en nu zit de hele vloer in de primer.\n\nBenieuwd hoe het verder gaat? Plan een afspraak in via werkplaats3b.nl\n\n#werkplaats3b #meubelmaker #interieurbouw #vakmanschap #maasland #westland #zzp #houtbewerking #atelier #bedrijfsruimte",
